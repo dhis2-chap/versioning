@@ -1,2 +1,2 @@
-# versioning
-Repo that contains information about which versions of various dhis2-chap packages are compatible
+# Versioning
+This repo contains yaml files that defines which versions of various dhis-chap code bases/packages that are compatible.
