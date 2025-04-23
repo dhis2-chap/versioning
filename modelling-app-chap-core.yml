@@ -1,0 +1,5 @@
+# Contains which versions of chap-core that are compatible with which versions of modelling app. The key (first part) of the mapping below is the modelling app version
+#
+
+1.0.0:
+  - 1.0.4
